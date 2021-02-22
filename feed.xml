@@ -3,7 +3,7 @@
     <title>ART CRUSH INTERNATIONAL</title>
     <link href="https://artcrushinternational.com/feed.xml" rel="self" />
     <link href="https://artcrushinternational.com" />
-    <updated>2021-02-22T12:41:24+01:00</updated>
+    <updated>2021-02-22T15:54:00+01:00</updated>
     <author>
         <name>ART CRUSH INTERNATIONAL</name>
     </author>
@@ -17,9 +17,38 @@
         <link href="https://artcrushinternational.com/newsletter.html"/>
         <id>https://artcrushinternational.com/newsletter.html</id>
 
-        <updated>2021-02-22T11:42:14+01:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2021-02-22T15:33:50+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Stay up to date with our newsletter!* indicates required Email Address *&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <!-- Begin Mailchimp Signup Form -->
+<div id="mc_embed_signup"><form id="mc-embedded-subscribe-form" class="validate" action="https://artcrushinternational.us1.list-manage.com/subscribe/post?u=a5c4d920618c0fdc5f20955c6&amp;id=b8df586896" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
+<div id="mc_embed_signup_scroll">
+<h2>Stay up to date with our newsletter!</h2>
+<div class="indicates-required"><span class="asterisk">*</span> indicates required<br><br></div>
+<div class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span> <br></label> <input id="mce-EMAIL" class="required email" name="EMAIL" required="" type="email" value=""><br><br></div>
+<div class="mc-field-group"><label for="mce-FNAME">First Name <br></label> <input id="mce-FNAME" class="" name="FNAME" type="text" value=""><br><br></div>
+<div class="mc-field-group"><label for="mce-LNAME">Last Name </label> <br><input id="mce-LNAME" class="" name="LNAME" type="text" value=""><br><br></div>
+<div id="mce-responses" class="clear">
+<div id="mce-error-response" class="response" style="display: none;"> </div>
+<div id="mce-success-response" class="response" style="display: none;"> </div>
+</div>
+<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+<div style="position: absolute; left: -5000px;" aria-hidden="true"><input tabindex="-1" name="b_a5c4d920618c0fdc5f20955c6_b8df586896" type="text" value=""></div>
+<div class="clear"><input id="mc-embedded-subscribe" class="button" name="subscribe" type="submit" value="Subscribe"></div>
+</div>
+</form></div>
+<p>
+<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
+<script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+</p>
+<!--End mc_embed_signup-->
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Tramaine de Senna</title>
@@ -181,18 +210,17 @@
         <link href="https://artcrushinternational.com/contact-us.html"/>
         <id>https://artcrushinternational.com/contact-us.html</id>
 
-        <updated>2021-02-22T11:44:33+01:00</updated>
+        <updated>2021-02-22T15:54:00+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://artcrushinternational.com/media/posts/4/mike-meyers-haAxbjiHds-unsplash-2.jpg" alt="" />
                     If you like what you hear, read or see, let us know!&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://artcrushinternational.com/media/posts/4/mike-meyers-haAxbjiHds-unsplash-2.jpg" alt="" />
                 <p>If you like what you hear, read or see, let us know!</p>
 <p class="align-left">You can reach us at <a href="mailto:contact@artcrushinternational.com" target="_blank" rel="noopener noreferrer">contact@artcrushinternational.com</a></p>
+<figure class="post__image"><img loading="lazy"  src="https://artcrushinternational.com/media/posts/4/mike-meyers-haAxbjiHds-unsplash-2-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://artcrushinternational.com/media/posts/4/responsive/mike-meyers-haAxbjiHds-unsplash-2-2-xs.jpg 300w ,https://artcrushinternational.com/media/posts/4/responsive/mike-meyers-haAxbjiHds-unsplash-2-2-sm.jpg 480w ,https://artcrushinternational.com/media/posts/4/responsive/mike-meyers-haAxbjiHds-unsplash-2-2-md.jpg 768w ,https://artcrushinternational.com/media/posts/4/responsive/mike-meyers-haAxbjiHds-unsplash-2-2-lg.jpg 1024w"  alt="" width="4200" height="4200"></figure>
             ]]>
         </content>
     </entry>
