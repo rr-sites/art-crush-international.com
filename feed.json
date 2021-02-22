@@ -119,14 +119,14 @@
             "url": "https://artcrushinternational.com/contact-us.html",
             "title": "Contact",
             "summary": "If you like what you hear, read or see, let us know!&hellip;",
-            "content_html": "<p>If you like what you hear, read or see, let us know!</p>\n<p class=\"align-left\">You can reach us at <a href=\"mailto:contact@artcrushinternational.com\" target=\"_blank\" rel=\"noopener noreferrer\">contact@artcrushinternational.com</a></p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://artcrushinternational.com/media/posts/4/mike-meyers-haAxbjiHds-unsplash-2-2.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://artcrushinternational.com/media/posts/4/responsive/mike-meyers-haAxbjiHds-unsplash-2-2-xs.jpg 300w ,https://artcrushinternational.com/media/posts/4/responsive/mike-meyers-haAxbjiHds-unsplash-2-2-sm.jpg 480w ,https://artcrushinternational.com/media/posts/4/responsive/mike-meyers-haAxbjiHds-unsplash-2-2-md.jpg 768w ,https://artcrushinternational.com/media/posts/4/responsive/mike-meyers-haAxbjiHds-unsplash-2-2-lg.jpg 1024w\"  alt=\"\" width=\"4200\" height=\"4200\"></figure>",
+            "content_html": "<p class=\"align-center\">If you like what you hear, read or see, let us know!</p>\n<p class=\"align-center\">You can reach us at <a href=\"mailto:contact@artcrushinternational.com\" target=\"_blank\" rel=\"noopener noreferrer\">contact@artcrushinternational.com</a></p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://artcrushinternational.com/media/posts/4/mike-meyers-haAxbjiHds-unsplash-2-2.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://artcrushinternational.com/media/posts/4/responsive/mike-meyers-haAxbjiHds-unsplash-2-2-xs.jpg 300w ,https://artcrushinternational.com/media/posts/4/responsive/mike-meyers-haAxbjiHds-unsplash-2-2-sm.jpg 480w ,https://artcrushinternational.com/media/posts/4/responsive/mike-meyers-haAxbjiHds-unsplash-2-2-md.jpg 768w ,https://artcrushinternational.com/media/posts/4/responsive/mike-meyers-haAxbjiHds-unsplash-2-2-lg.jpg 1024w\"  alt=\"\" width=\"4200\" height=\"4200\"></figure>",
             "author": {
                 "name": "ART CRUSH INTERNATIONAL"
             },
             "tags": [
             ],
             "date_published": "2021-02-03T21:52:53+01:00",
-            "date_modified": "2021-02-22T15:54:00+01:00"
+            "date_modified": "2021-02-22T19:56:54+01:00"
         },
         {
             "id": "https://artcrushinternational.com/about-us.html",
